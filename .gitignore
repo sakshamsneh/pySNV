@@ -2,4 +2,3 @@ __pycache__
 *.csv
 config.py
 .vscode
-requirements.py
